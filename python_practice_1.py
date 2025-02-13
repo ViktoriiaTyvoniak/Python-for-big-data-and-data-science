@@ -1,0 +1,1 @@
+print("Tyvoniak Viktoriia, AI-2025")
